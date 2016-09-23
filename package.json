@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TomVanBoghout/organizer/issues"
   },
-  "homepage": "https://github.com/TomVanBoghout/organizer#readme"
+  "homepage": "https://github.com/TomVanBoghout/organizer#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }

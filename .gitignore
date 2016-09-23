@@ -40,3 +40,7 @@ Thumbs.db
 ##################
 .idea
 .idea/*
+
+# node stuff #
+##############
+node_modules/*
