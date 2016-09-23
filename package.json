@@ -1,0 +1,19 @@
+{
+  "name": "organizer",
+  "version": "1.0.0",
+  "description": "organize your organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomVanBoghout/organizer.git"
+  },
+  "author": "Tom Van Boghout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomVanBoghout/organizer/issues"
+  },
+  "homepage": "https://github.com/TomVanBoghout/organizer#readme"
+}
