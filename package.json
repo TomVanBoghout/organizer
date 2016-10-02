@@ -4,6 +4,7 @@
   "description": "organize your organization",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node index.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive",
     "test:watch": "npm run test -- --watch",
     "dev": "webpack -d --watch",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/TomVanBoghout/organizer#readme",
   "dependencies": {
+    "babel-cli": "^6.16.0",
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.14.0",
     "babel-preset-react": "^6.11.1",
